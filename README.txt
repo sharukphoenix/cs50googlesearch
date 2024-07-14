@@ -25,3 +25,4 @@ Problem Statement-
             - Icons(optional)
 
 Commit - 0 : This is my initial test commit!
+I've made a change to ur GitHub Repo for you to make ur first "pull" on to ur local repo using git!
